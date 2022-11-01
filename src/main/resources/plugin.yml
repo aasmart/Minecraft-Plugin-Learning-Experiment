@@ -1,0 +1,15 @@
+name: PluginExperiment
+version: '${version}'
+main: com.aasmart.PluginExperiment.Main
+api-version: 1.18
+
+commands:
+  axolotlbomb:
+    description: When axolotls go boom
+    usage: /<command>
+  customitems:
+    description: Opens the menu with custom items
+    usage: /<command>
+  pets:
+    description: Opens the pets menu
+    usage: </command>
